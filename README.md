@@ -10,8 +10,8 @@ T.Y Final Year Project
 - [🚀 Overview](#-overview)
 - [✨ Features](#-features)
 - [🛠 Tech Stack](#-tech-stack)
+- [📸 Documentation](#-documentation)
 - [🎬 Demo](#-demo)
-- [📸 Screenshots](#-screenshots)
 
 ---
 
@@ -53,6 +53,25 @@ This project demonstrates web technologies (HTML/CSS/JS), backend logic in PHP, 
 | Database   | MySQL 5.7+                           |
 | Payment    | Razorpay (Test & Live)               |
 | Deployment | AWS EC2 (LAMP stack)                 |
+
+---
+
+## 📄 Documentation
+
+A complete project documentation PDF is included in this repository. It contains the following sections:
+
+1. **Title of the Project**
+2. **Introduction to the Project**
+3. **Problem Statement**
+4. **Scope of the Project**
+5. **Objectives**
+6. **Technology Used**
+7. **ER & UML Diagrams**
+8. **Screenshots of Project**
+9. **Conclusion**
+10. **Bibliography**
+
+📥 **[Click here to view the full documentation](./ShopEase_Documentation.pdf)**
 
 ---
 
