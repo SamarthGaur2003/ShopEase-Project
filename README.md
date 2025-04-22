@@ -71,7 +71,7 @@ A complete project documentation PDF is included in this repository. It contains
 9. **Conclusion**
 10. **Bibliography**
 
-📥 **[Click here to view the full documentation](./ShopEase-Project/ShopEase_Documentation.pdf)**
+📥 **[Click here to view the full documentation](./ShopEase_Documentation.pdf)**
 
 ---
 
